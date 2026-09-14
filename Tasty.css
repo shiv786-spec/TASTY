@@ -440,7 +440,7 @@ opacity: 30px;
 
     .box {
         min-height: 200px;
-        width: 300px;
+        min-width: 300px;
         /* background-color: aqua; */
         display: flex;
         flex-direction: column;
