@@ -40,9 +40,13 @@
     .container {
         display: flex;
         flex-direction: column;
+        width: auto;
         gap: 30px;
         justify-content: center;
         align-items: center;
+    }
+    .photobox{
+        width: 40%;
     }
 
     .menu-img{
