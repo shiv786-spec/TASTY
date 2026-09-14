@@ -284,7 +284,7 @@ nav i {
   
 margin-bottom: 20px;
     .container {
-        height: 90vh;
+        min-height: 90vh;
         display: flex;
         justify-content: center;
         align-items: center;
@@ -345,13 +345,13 @@ margin-bottom: 20px;
 }
 
 .sec3 {
-    height: 90vh;
+    min-height: 90vh;
     /* width: 100%; */
     background-image: url(/images/5sec.png);
     background-size: cover;
 
     .contabox {
-        height: 90vh;
+        min-height: 90vh;
         width: 100%;
         /* border: 2px solid yellow; */
         display: flex;
@@ -404,7 +404,7 @@ ul :hover {
 }
 
 .food {
-    height: 70vh;
+    min-height: 70vh;
     width: 100%;
     background-image: url(/images/food.png);
 opacity: 30px;
@@ -439,7 +439,7 @@ opacity: 30px;
     justify-content: space-evenly;
 
     .box {
-        height: 200px;
+        min-height: 200px;
         width: 300px;
         /* background-color: aqua; */
         display: flex;
