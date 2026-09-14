@@ -41,12 +41,10 @@
         display: flex;
         flex-direction: column;
         width: auto;
+        height: auto;
         gap: 30px;
         justify-content: center;
         align-items: center;
-    }
-    .photobox{
-        width: 30%;
     }
 
     .menu-img{
