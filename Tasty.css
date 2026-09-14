@@ -580,14 +580,14 @@ footer{
 
     .footer-sec{
         /* height: 120vh; */
-        /* width: 50%; */
+        width: auto;
         /* border: 2px solid red; */
         display: flex;
         align-items: center;
 
         .discription{
             /* height: 700px; */
-            width: 600px;
+            /* width: 600px; */
             /* border: 2px solid black; */
             font-size: 20px;
 

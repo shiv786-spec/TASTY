@@ -26,6 +26,10 @@
         display: none;
     }
 
+    .discription{
+        width: auto;
+    }
+
     .footer-sec {
         display: flex;
         flex-direction: column;
@@ -82,3 +86,4 @@
         padding: 25px;
     }
 }
+
