@@ -45,6 +45,10 @@
         gap: 30px;
         justify-content: center;
         align-items: center;
+
+        .photobox{
+            width: auto;
+        }
     }
 
     .menu-img{
